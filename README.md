@@ -19,10 +19,9 @@ Save YouTube, Vimeo, and TikTok videos with auto-detected chapters, drag-to-reor
 
 ### Tech Stack
 - React 18 + TypeScript
-- Vite (lightning-fast dev server)
+- Vite
 - Tailwind CSS
-- Zustand (tiny, powerful state management)
-- Lucide React icons
+- Zustand
 - Deployed on Vercel
 
 ### Run Locally
