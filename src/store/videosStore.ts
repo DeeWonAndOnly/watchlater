@@ -94,7 +94,7 @@ export const useVideosStore = create<VideosState>()(
         })),
     }),
     {
-      name: 'listenlater-storage',
+      name: 'watchlater-storage',
     }
   )
 );

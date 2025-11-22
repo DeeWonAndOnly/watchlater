@@ -16,7 +16,7 @@ export function Header() {
         <div className="flex items-center gap-4">
           <ListVideo className="w-10 h-10 text-teal-600 dark:text-teal-400" />
           <h1 className="text-3xl font-bold bg-gradient-to-r from-teal-600 to-emerald-600 bg-clip-text text-transparent">
-            ListenLater
+            WatchLater
           </h1>
         </div>
 
