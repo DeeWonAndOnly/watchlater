@@ -6,8 +6,8 @@ Save YouTube, Vimeo, and TikTok videos with auto-detected chapters, drag-to-reor
 **Live Demo** → https://watchlater.vercel.app  
 **GitHub** → https://github.com/yourusername/watchlater
 
-<!-- Replace the line below with a real screenshot after you push — just drag an image onto this file in GitHub and it auto-uploads -->
-![WatchLater screenshot](https://github.com/user-attachments/assets/REPLACE_WITH_REAL_SCREENSHOT_AFTER_PUSH)
+![WatchLater – Video bookmarking app](https://github.com/user-attachments/assets/dbc4160b-128e-4131-a2a1-3b95460f4174)
+
 
 ### Features
 - Paste any YouTube / Vimeo / TikTok link → instantly fetches title, thumbnail, duration, channel, and **YouTube chapters**
